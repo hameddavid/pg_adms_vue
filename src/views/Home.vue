@@ -42,7 +42,7 @@
             > Applicant Login</button
           >
           <div class="mt-2">
-            <button class="btn btn-lg text-uppercase text-white " @click="studentLoginRoute" style="background-color:goldenrod">Student Login</button>
+            <a class="btn btn-lg text-uppercase text-white btn-link" href="http://record.run.edu.ng" style="background-color:goldenrod">Student Login</a>
           </div>
         </div>
       </div>
